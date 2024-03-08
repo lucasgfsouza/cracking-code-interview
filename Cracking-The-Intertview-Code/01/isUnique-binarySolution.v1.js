@@ -22,3 +22,6 @@ function isUnique(str) {
   console.log(isUnique("hello"));
   console.log(isUnique("arara"));
   console.log(isUnique("abcdef"));
+
+  // This solutions presentes a O(n) time complexity limited to 128 and a
+  // O(1) space complexity.
