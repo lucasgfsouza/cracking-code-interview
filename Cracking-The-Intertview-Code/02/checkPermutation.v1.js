@@ -44,3 +44,8 @@ function isPermutative(string1, string2) {
 console.log(isPermutative('oi', 'io'))
 console.log(isPermutative('arara', 'aaarr'))
 console.log(isPermutative('hello', 'hola'))
+
+/* 
+    This solutions has a O(n) time complexity and a O(c) space complexity
+    where c is the unique characters of each string.
+*/
