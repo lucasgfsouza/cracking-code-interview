@@ -3,6 +3,7 @@ pg 90
 
 Every time a solution is built after I've read the answer, I'll leave a comment 'checked solution' in the solution file.
 
+QUESTION:
 Is Unique: Implement an algorithm to determine if a string has all unique characters.
 What if you cannot use additional data structures?
 
